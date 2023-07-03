@@ -20,16 +20,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently in my senior year as an undergraduate student at the University of Michigan. I am double majoring in computer science and mathematics. I feel fortunate to be part of the Curly Lab under the guidance of Maani Ghaffari. Additionally, I have had the opportunity to work closely with Heng Yang from Harvard University's School of Engineering and Applied Sciences (SEAS).
+I am currently in my senior year as an undergraduate student at [the University of Michigan](https://umich.edu/). I am double majoring in computer science and mathematics. I feel fortunate to be part of [CURLY Lab](https://curly.engin.umich.edu/) under the guidance of [Maani Ghaffari](https://robotics.umich.edu/profile/maani-ghaffari/). Additionally, I have had the opportunity to work closely with [Heng Yang](https://hankyang.seas.harvard.edu/) from [School of Engineering and Applied Sciences (SEAS)](https://seas.harvard.edu/) at [Harvard University](https://www.harvard.edu/). I also had a wonderful time in [Lab for Progress](https://progress.eecs.umich.edu/) advised by [Chad Jenkins](https://ocj.name/).
 
-I am seeking admission to a PhD or Master's program with a focus on robotics and related fields.
+<strong>I am seeking admission to a PhD or Master's program with a focus on robotics and related fields.</strong>
 
 <strong>Research interests: </strong> optimization, robot perception, learning for control
-
-This is some random text -- this should change frontend. Add some contents
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
