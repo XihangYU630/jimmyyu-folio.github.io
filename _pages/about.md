@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: **Researcher** in Robotics. **Undergraduate** at the University of Michigan.
 
 profile:
   align: right
