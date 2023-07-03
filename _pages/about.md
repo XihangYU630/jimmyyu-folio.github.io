@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: **Researcher** in Robotics. **Undergraduate** at the University of Michigan.
+subtitle: <strong>Researcher</strong> in Robotics. <br><strong>Undergraduate</strong> at the University of Michigan.
+
 
 profile:
   align: right
