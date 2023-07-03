@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Xihang
 middle_name: 
 last_name: Yu
-email: yuxihang99@gmail.com
+email: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -108,15 +108,15 @@ discord_id: # your discord id (18-digit unique numerical identifier)
 contact_note: >
   Email: xihangyu@umich.edu.
 
-# # -----------------------------------------------------------------------------
-# # Analytics and search engine verification
-# # -----------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
+# Analytics and search engine verification
+# -----------------------------------------------------------------------------
 
-# google_analytics:  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
-# panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
+google_analytics:  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
-# google_site_verification:  # your google-site-verification ID (Google Search Console)
-# bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
+google_site_verification:  # your google-site-verification ID (Google Search Console)
+bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # Pagination
 pagination:
