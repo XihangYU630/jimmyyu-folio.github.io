@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong>Researcher</strong> in Robotics. <br><strong>Undergraduate</strong> at the University of Michigan.
+subtitle: <strong>Undergraduate</strong> at the University of Michigan <br>Robotics, Math, Computer Science
 
 
 profile:
@@ -19,6 +19,12 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+I am currently in my senior year as an undergraduate student at the University of Michigan. I am double majoring in computer science and mathematics. I feel fortunate to be part of the Curly Lab under the guidance of Maani Ghaffari. Additionally, I have had the opportunity to work closely with Heng Yang from Harvard University's School of Engineering and Applied Sciences (SEAS).
+
+I am seeking admission to a PhD or Master's program with a focus on robotics and related fields.
+
+<strong>Research interests: </strong> optimization, robot perception, learning for control
 
 This is some random text -- this should change frontend. Add some contents
 
