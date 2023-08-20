@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
-importance: 2
-category: work
+title: Vision and Language Manipulation
+description: Action-Centric Vision-and-Language Manipulation
+img: assets/img/vlm_cover_vis.png
+importance: 1
+category: research
+redirect: /assets/pdf/Action_Centric_Vision_and_Language_Manipulation_Using_Transformer.pdf
 ---
 
 Every project has a beautiful feature showcase page.

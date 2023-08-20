@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+title: Multi-Agent Control
+description: Multi-Agent Coordinate Control Using Barrier Function
+img: assets/img/multi-agent.gif
+importance: 1
+category: research
+redirect: /assets/pdf/XihangYu_Final Report.pdf
 ---
 
 Every project has a beautiful feature showcase page.

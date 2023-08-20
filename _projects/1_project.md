@@ -1,11 +1,24 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: 3D Semantic Scene Understanding
+description: A performance analysis on applying Large Language Model to enhance semantic 3D scene understanding
+img: assets/img/cover_vis.png
 importance: 1
-category: work
+category: research
+redirect: /assets/pdf/Leveraging_Large_Language_Models_for_Robot_3D_Scene_Understanding__Final_Report.pdf
 ---
+
+
+Robotic applications rely on scene understanding to analyze objects within a 3D environ- ment. One crucial component of scene understanding is semantics labeling, which involves assigning class labels to semantic regions based on the objects within them. A visualization of the semantics labeling process is shown in Figure 1. In a recent study [1], Large Language Models (LLMs) were found to be effective in incorporating common sense knowledge during the labeling process. In this project, we aim to compare two LLMs, GPT-J and RoBERTa, using fine-tuned feed-forward and contrastive networks, which were not evaluated in [1], for the semantic labeling task. The contributions of this project are twofold: (i) The proposed GPT-J with fine-tuned feed-forward network achieves state-of-the-art(SOTA) performance, and (ii) by varying the number of candidate objects, adopting ChatGPT-based room detection and fine-tuning a whole BERT-based network, we explore the possible performance bottleneck of our proposed GPT-J pretrained network.
+
+
+For more information, please refer to our report and <a href="https://getbootstrap.com/docs/4.4/layout/grid/">codebase</a>
+
+For more information, please refer to our [report](/Users/jimmyyu/Desktop/jimmyyu-folio.github.io/assets/pdf/Leveraging_Large_Language_Models_for_Robot_3D_Scene_Understanding__Final_Report.pdf) and [codebase](https://github.com/XihangYU630/llm_scene_understanding_gptj).
+
+
+
+[1] William Chen, Siyi Hu, Rajat Talak, and Luca Carlone. Leveraging large language models for robot 3d scene understanding. arXiv preprint arXiv:2209.05629, 2022.
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

@@ -22,7 +22,7 @@ I am currently in my senior year as an undergraduate student at [the University 
 
 <strong>I am seeking admission to a PhD or Master's program with a focus on robotics and related fields.</strong>
 
-<strong>Research interests: </strong> optimization, robot perception, learning for control
+<strong>Research interests: </strong> optimization, robot perception, vision-based control
 
 
 <br><em>"We are all in the gutter, but some of us are looking at the stars." --- O. Wilde </em><br><em>"南郭子綦隱机而坐，仰天而噓，荅焉似喪其耦。" --- 《莊子 • 齊物論》 </em>
