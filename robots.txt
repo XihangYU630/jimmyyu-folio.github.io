@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://XihangYU630.github.io/sitemap.xml
