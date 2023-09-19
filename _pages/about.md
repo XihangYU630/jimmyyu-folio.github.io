@@ -22,7 +22,7 @@ I am currently in my final year as an undergraduate student at [the University o
 
 Recently, I am completing my Honors Thesis on Language-conditioned Manipulation in [Lab for Progress](https://progress.eecs.umich.edu/) advised by Prof. [Chad Jenkins](https://ocj.name/). I spend the rest of time exploring Hybrid Model Predictive Control (MPC) after taking [Hybrid Control course](https://ece.engin.umich.edu/academics/course-information/course-descriptions/eecs-563/) taught by Prof. [Necmiye Ozay](https://web.eecs.umich.edu/~necmiye/).
 
-<strong>I am seeking admission to a PhD or Master's program with a focus on robotics and related fields (ME/Aero/CS/EE).</strong>
+<strong>I am seeking admission to a PhD or Master's program with a focus on robotics and related fields (ME/AeroAstro/EE/CS).</strong>
 
 <strong>Research interests: </strong> optimization, robot perception, vision-based control
 
