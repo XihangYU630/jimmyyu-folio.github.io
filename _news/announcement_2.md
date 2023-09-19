@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Start research intern in Computational Robotics Lab at Harvard University
+Start research intern in [Computational Robotics Lab](https://hankyang.seas.harvard.edu/) at Harvard University
