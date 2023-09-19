@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vision and Language Manipulation
-description: Action-Centric Vision-and-Language Manipulation
+description: Action-Centric Vision-and-Language Manipulation. This is a course project done with another student for EECS498 Principles of Machine Learning in the University of Michigan.
 img: assets/img/vlm_cover_vis.png
 importance: 1
 category: research

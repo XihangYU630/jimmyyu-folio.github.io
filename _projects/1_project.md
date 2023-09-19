@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 3D Semantic Scene Understanding
-description: A performance analysis on applying Large Language Model to enhance semantic 3D scene understanding
+description: A performance analysis on applying Large Language Model to enhance semantic 3D scene understanding. This is a course project done with other two students for EECS487 Natural Language Processing in the University of Michigan.
 img: assets/img/cover_vis.png
 importance: 1
 category: research
