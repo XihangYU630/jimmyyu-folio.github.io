@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Multi-Agent Control
-description: Multi-Agent Coordinate Control Using Barrier Function
+description: Multi-Agent Coordinate Control Using Barrier Function. This is a project done with other two students during Summer Research Intern in CUHK advised by Dr. Dongkun Han.
 img: assets/img/multi-agent.gif
 importance: 1
 category: research

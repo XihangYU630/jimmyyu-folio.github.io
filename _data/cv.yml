@@ -43,6 +43,14 @@
         - Developing homeworks and quizzes and organizing office hour session
       year: 2023
 
+- title: Selected Courses
+  type: map
+  contents:
+    - name: Undergraduate Level
+      value: Combinatorics and Graph, Linear Programming, Analysis and Optimization, Autonomous Robotics, Computational Aspects of Robotics, Natural Language Processing, Computer Vision
+    - name: Graduate Level
+      value: Mobile Robotics, Nonlinear Dynamics and Geometric Mechanics, Hybrid Control, Deep Learning for Robot Perception, Principles of Machine Learning
+
 
 # - title: Honors and Awards
 #   type: time_table
@@ -70,4 +78,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> soccer, tennis.
+    - <u>Hobbies:</u> soccer, cooking.
