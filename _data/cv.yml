@@ -9,7 +9,8 @@
 - title: Education
   type: time_table
   contents:
-    - title: B.S in Computer Science (Honors Program)
+    - title: |
+             B.S in Computer Science (Honors Program) 
              B.S. in Math (Control Systems Track)
       institution: University of Michigan, Ann Arbor, MI
       year: 2024
