@@ -9,7 +9,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: B.S in Computer Science, Honors Program
+    - title: B.S in Computer Science with Honors
       institution: University of Michigan, Ann Arbor, MI
       year: 2024
     - title: B.S. in Math, Control Systems Track
@@ -49,12 +49,11 @@
 - title: Selected Courses
   type: map
   contents:
-    - name: Undergraduate Level
-      value: Combinatorics and Graph, Linear Programming, Analysis and Optimization, Autonomous Robotics, Computational Aspects of Robotics, Natural Language Processing, Computer Vision
     - name: Graduate Level
-      value: Mobile Robotics, Nonlinear Dynamics and Geometric Mechanics, Hybrid Control, Deep Learning for Robot Perception, Principles of Machine Learning
-
-
+      value: Hybrid Control, Continuous Optimization Methods, Mobile Robotics, Nonlinear Dynamics and Geometric Mechanics, Deep Learning for Robot Perception, Principles of Machine Learning
+    - name: Undergraduate Level
+      value: Analysis and Optimization, Combinatorics and Graph Theory, Linear Programming, Introduction to Autonomous Robotics, Natural Language Processing, Computer Vision, Computational Aspects of Robotics, Introduction to Computer Systems, Computer Science Theory, Introduction to Cryptography
+    
 # - title: Honors and Awards
 #   type: time_table
 #   contents:
