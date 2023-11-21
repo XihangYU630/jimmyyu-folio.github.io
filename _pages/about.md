@@ -10,7 +10,7 @@ profile:
   image: selfie.JPG
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Chongqing, China</p>
+    <p>Porcupine Mountains, 2023</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
