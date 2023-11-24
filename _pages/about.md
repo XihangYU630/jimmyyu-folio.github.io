@@ -46,7 +46,7 @@ Recently, I am completing my Honors Thesis on Language-conditioned Manipulation 
 </head>
 <body>
     <div class="centered-box">
-        <em>"We are all in the gutter, but some of us are looking at the stars." --- Oscar. Wilde</em><br>
+        <em>“If today were the last day of my life, would I want to do what I am about to do today?” --- Steve. Jobs</em><br>
         <em>"南郭子綦隱机而坐，仰天而噓，荅焉似喪其耦。" --- 《莊子 • 齊物論》</em>
     </div>
 </body>
