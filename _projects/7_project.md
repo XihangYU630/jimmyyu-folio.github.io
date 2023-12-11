@@ -5,5 +5,5 @@ description: Proposed and implemented Moment Relaxation-based solver for Multi-C
 img: assets/img/c3sdp.gif
 importance: 1
 category: research
-redirect: /assets/pdf/C3-SDP.pdf
+redirect: /assets/pdf/C3SDP_report.pdf
 ---
