@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cryptography
+title: Parallel Cryptography
 description: Parallelize classic Cryptographic algorithms AES and hash tree. This is a course project for EECS475 Introduction to Cryptography in the University of Michigan.
 img: assets/img/cry_cover_vis.png
 importance: 1
