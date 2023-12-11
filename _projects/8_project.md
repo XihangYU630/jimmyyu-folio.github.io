@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact-rich in robotics
-description: Proposed and implemented SDP-based formulation for joint camera trajectory estimation and depth finetuning.
+title: Human-robot interaction
+description: Computer Science Honors Thesis, University of Michigan, 2023. Learning Language-guided human-robot collaborative Dynamics.
 img: assets/img/ladybot_cover_vis.png
 importance: 1
 category: research
