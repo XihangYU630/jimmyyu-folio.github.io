@@ -24,7 +24,7 @@ Presently, I am collaborating with Prof. [Anthony Bloch](https://dept.math.lsa.u
 
 <strong>I am seeking admission to a PhD or Master's program with a focus on robotics and related fields (ME/AeroAstro/EE/CS).</strong>
 
-<strong>Research interests: </strong> computational methods in robotics, with strong emphasis on optimization and machine learning
+<strong>Research interests: </strong> computational methods in robotics, with a strong emphasis on optimization and machine learning
 
 
 <!-- <br><em>"We are all in the gutter, but some of us are looking at the stars." --- Oscar. Wilde </em><br><em>"南郭子綦隱机而坐，仰天而噓，荅焉似喪其耦。" --- 《莊子 • 齊物論》 </em> -->
