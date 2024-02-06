@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Invited talk in Hybrid Robotics Lab at Mechanical Engineering Department of UC Berkeley
+Invited talk in [Hybrid Robotics Lab](https://hybrid-robotics.berkeley.edu/) at Mechanical Engineering Department of UC Berkeley
