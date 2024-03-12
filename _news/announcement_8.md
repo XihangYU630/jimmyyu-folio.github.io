@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Co-authored paper APISR: Anime Production Inspired Real-World Anime Super-Resolution accepted to CVPR 2024
+Co-authored paper [APISR: Anime Production Inspired Real-World Anime Super-Resolution](https://arxiv.org/abs/2403.01598) accepted to CVPR 2024
