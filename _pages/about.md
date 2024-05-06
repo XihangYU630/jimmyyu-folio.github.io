@@ -7,7 +7,7 @@ subtitle: <strong>Undergraduate</strong> at the University of Michigan <br>Robot
 
 profile:
   align: right
-  image: selfie.HEIC
+  image: selfie.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Porcupine Mountains</p>
