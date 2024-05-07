@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 
 
-I am a PhD student in [AeroAstro](https://aeroastro.mit.edu/) in the [Department of Aeronautics and Astronautics](https://aeroastro.mit.edu/) (AeroAstro) and [Laboratory for Information and Decision Systems](https://lids.mit.edu/) (LIDS) at MIT advised by Prof. [Luca Carlone](https://lucacarlone.mit.edu/).
+I am a PhD student in the [Department of Aeronautics and Astronautics](https://aeroastro.mit.edu/) (AeroAstro) and [Laboratory for Information and Decision Systems](https://lids.mit.edu/) (LIDS) at MIT advised by Prof. [Luca Carlone](https://lucacarlone.mit.edu/).
 
 Before that, I got bachelor’s degree in Computer Science (Honors Program) and Mathematics (Control Systems track) at [the University of Michigan](https://umich.edu/). I was fortunate to be part of [CURLY Lab](https://curly.engin.umich.edu/) led by Prof. [Maani Ghaffari](https://robotics.umich.edu/profile/maani-ghaffari/). Additionally, I have had the opportunity to work closely with Prof. [Heng Yang](https://hankyang.seas.harvard.edu/) from [School of Engineering and Applied Sciences (SEAS)](https://seas.harvard.edu/) at [Harvard University](https://www.harvard.edu/). Under their guidance, I have been focused on state estimation, developing both [iterative](https://arxiv.org/abs/2209.15140) and [optimization-based](https://arxiv.org/abs/2309.05184) fast implemented algorithms. I completed my Honors Thesis on Language-conditioned Manipulation in [Lab for Progress](https://progress.eecs.umich.edu/) advised by Prof. [Chad Jenkins](https://ocj.name/).  
 
