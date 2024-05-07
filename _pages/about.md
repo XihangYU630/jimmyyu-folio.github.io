@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong>Undergraduate</strong> at the University of Michigan <br>Robotics, Math, Computer Science
+subtitle: <strong>PhD student</strong> at MIT LIDS <br>Robotics, Aerospace, Math, Computer Science
 
 
 profile:
@@ -18,11 +18,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently in my final year as an undergraduate student at [the University of Michigan](https://umich.edu/). I am double majoring in Computer Science (Honors Program) and Mathematics (Control Systems track). I feel fortunate to be part of [CURLY Lab](https://curly.engin.umich.edu/) led by Prof. [Maani Ghaffari](https://robotics.umich.edu/profile/maani-ghaffari/). Additionally, I have had the opportunity to work closely with Prof. [Heng Yang](https://hankyang.seas.harvard.edu/) from [School of Engineering and Applied Sciences (SEAS)](https://seas.harvard.edu/) at [Harvard University](https://www.harvard.edu/). Under their guidance, I have been focused on state estimation, developing both [iterative](https://arxiv.org/abs/2209.15140) and [optimization-based](https://arxiv.org/abs/2309.05184) fast implemented algorithms. I completed my Honors Thesis on Language-conditioned Manipulation in [Lab for Progress](https://progress.eecs.umich.edu/) advised by Prof. [Chad Jenkins](https://ocj.name/).  
 
-Presently, I am collaborating with Prof. [Anthony Bloch](https://dept.math.lsa.umich.edu/~abloch/) and [Maani Ghaffari](https://robotics.umich.edu/profile/maani-ghaffari/) on computational approaches at the intersection of robotics and Metriplectic System, an expanded Hamiltonian System with generalizations to dissipation.
 
-<strong>I am seeking admission to a PhD or Master's program with a focus on robotics and related fields (ME/AeroAstro/EE/CS).</strong>
+I am currently a PhD student in [AeroAstro](https://aeroastro.mit.edu/) at MIT advised by Prof. [Luca Carlone](https://lucacarlone.mit.edu/). 
+
+Before that, I was an undergraduate student at [the University of Michigan](https://umich.edu/). I am double majoring in Computer Science (Honors Program) and Mathematics (Control Systems track). I feel fortunate to be part of [CURLY Lab](https://curly.engin.umich.edu/) led by Prof. [Maani Ghaffari](https://robotics.umich.edu/profile/maani-ghaffari/). Additionally, I have had the opportunity to work closely with Prof. [Heng Yang](https://hankyang.seas.harvard.edu/) from [School of Engineering and Applied Sciences (SEAS)](https://seas.harvard.edu/) at [Harvard University](https://www.harvard.edu/). Under their guidance, I have been focused on state estimation, developing both [iterative](https://arxiv.org/abs/2209.15140) and [optimization-based](https://arxiv.org/abs/2309.05184) fast implemented algorithms. I completed my Honors Thesis on Language-conditioned Manipulation in [Lab for Progress](https://progress.eecs.umich.edu/) advised by Prof. [Chad Jenkins](https://ocj.name/).  
+
 
 <strong>Research interests: </strong> computational methods in robotics, with a strong emphasis on optimization and machine learning
 
