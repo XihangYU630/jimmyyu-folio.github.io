@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong>PhD student</strong> at MIT <br>Robotics, Math, Aerospace, Computer Science
+subtitle: <strong>PhD student</strong> at MIT <br>Robotics, Math, Computer Science, AeroAstro
 
 
 profile:
